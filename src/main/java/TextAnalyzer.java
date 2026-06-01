@@ -9,7 +9,7 @@ import java.util.Scanner;
 import java.util.HashMap;
 import java.util.ArrayList;
 
-public class ProblemSet {
+public class TextAnalyzer {
 	public static void main(String args[]) {
 	    Scanner input = new Scanner(System.in);
 	    int characters = 0;
